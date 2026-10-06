@@ -18,3 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustflow-dev&show_icons=true&locale=en" alt="mustflow-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustflow-dev&" alt="mustflow-dev" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustFlow-dev/MustFlow-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustFlow-dev/MustFlow-dev/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MustFlow-dev/MustFlow-dev/output/github-snake.svg" />
+</picture>
+
